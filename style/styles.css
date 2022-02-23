@@ -342,11 +342,11 @@ img {
 .filtr-list {
   display: flex;
   justify-content: center;
+  margin-bottom: 50px;
 }
 
 .filtr-item {
   margin-right: 8px;
-  margin-bottom: 50px;
 }
 
 .filtr-item:last-child {
@@ -423,7 +423,6 @@ img {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-
   color: var(--text-header);
 }
 
@@ -431,6 +430,7 @@ img {
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
+  margin-top: 4px;
 }
 
 /* Футер */
